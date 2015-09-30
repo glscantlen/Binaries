@@ -1,1 +1,8 @@
 # Binaries
+
+Contains binary images and releases
+Images will be placed in folders that correspond to their source repository/folder
+
+ex:
+The MicroSD disk image for Buildroot_XU3_MPlayer will be at
+instructions/Buildroot_XU3_MPlayer/vdisk.img.gz
